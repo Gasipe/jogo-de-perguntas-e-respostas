@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(35, 35, 35);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px;    
+}
+
+.container {
+    background-color: rgb(145, 145, 145);
+    width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+#perguntas {
+    font-size: 1.5em;
+    margin: 20px 0;
+}
+
+#respostas button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: green;
+}
+
+#pontos {
+    margin-top: 10px;
+    font-size: 1em;
+}
