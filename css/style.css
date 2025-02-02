@@ -23,13 +23,13 @@ body {
     font-size: 1em;
 }
 
-#resultado {
+.resultado {
     margin-top: 20px;
     font-size: 1.2em;
     color: green;
 }
 
-#pontos {
+.pontos {
     margin-top: 10px;
     font-size: 1em;
 }
